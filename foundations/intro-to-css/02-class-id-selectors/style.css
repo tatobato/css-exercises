@@ -1,0 +1,22 @@
+.odd-color{
+    background-color: pink;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#blue-text{
+    color: blue;
+    font-size: 36px;
+}
+
+.even-number{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.samefont {
+    font-size: 40px;
+}
+
+#green-color {
+    background-color: lightgreen;
+}
