@@ -12,14 +12,13 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
-  padding: 32px;
 }
 
 .items {
 
   justify-content: space-between;
   display: flex;
-  gap: 52px;
+  padding: 52px;
 }
 
 .text {
